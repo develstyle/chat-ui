@@ -1,6 +1,6 @@
 Add your general design and decision comments here:
 
-
+I used in this project TestCafe (http://devexpress.github.io/testcafe/) for E2E testing. So you have to install it.
 
 
 
